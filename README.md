@@ -11,7 +11,7 @@ saat membuat intruksi kepada AI berikan ia Role, Task, Context, dan Format agar 
 
 manfaat dari prompt engineering yaitu meningkatkan performa AI model, mengurangi bias dan respon yang offensive, meningkatkan control dan predictability, memberi pengalaman yang lebih baik
 
--git atau hub
+-git atau git hub
 
 -git adalah version control system yang melacak siapa, kapan, dan apa saja yang diubah dari kodingan di suatu file
 
