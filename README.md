@@ -20,3 +20,5 @@ manfaat dari prompt engineering yaitu meningkatkan performa AI model, mengurangi
 -ada 3 area di git yaitu working area, staging area, git directory
 
 -tutorial menginstal git dan membuat akun git hub serta download VS code
+
+-tugas membuat apps/web menggunakan AI assitant (ada di file HTML)
